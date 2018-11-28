@@ -1,0 +1,20 @@
+.body {
+
+}
+
+.jumbotron {
+  background-image: url('images/interior_large.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  min-height: 700px;
+}
+
+.img {
+  margin-bottom: 5px;
+}
+
+.title-welcome .title.menu .title-restaurants .title-contacts {
+  font-family: 'Noto Sans SC', sans-serif;
+
+}
